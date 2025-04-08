@@ -1,20 +1,11 @@
-<div align="center">
-  <a href="https://github.com/ax10mdev/AlphaOS/tree/main/assets/logo-with-background-large.png" align="center">
-    <center align="center">
-<picture>
-  <img src="https://github.com/ax10mdev/AlphaOS/tree/main/assets/logo-with-background-large.png" align="center" height="200">
-</picture>
-    </center>
-  </a>
-  <br>
+
+![AlphaOS Desktop Showcase](assets/logo-with-background-large.png)
+
   <h1 align="center"><center>AlphaOS</center></h1>
   <h3 align="center"><center>Your Custom Ubuntu-Based Linux Distro with a Sleek Purple Theme</center></h3>
-  <br>
-  <br>
-</div>
 
 [![GPL-3.0 License](https://img.shields.io/badge/License-GPLv3-purple.svg)](LICENSE)
-[![GitHub Release](https://img.shields.io/github/v/release/AlphaOS/AlphaOS?color=%236A1B9A)](https://github.com/AlphaOS/AlphaOS/releases)
+[![GitHub Release](https://img.shields.io/github/v/release/ax10mdev/AlphaOS?color=%236A1B9A)](https://github.com/ax10mdev/AlphaOS/releases)
 [![Discord](https://img.shields.io/discord/1234567890?label=Community&logo=discord&color=7289DA)](https://discord.gg/alphaos)
 [![ISO Size](https://img.shields.io/badge/ISO_Size-2.4GB-purple)](https://alphaos.org/download)
 

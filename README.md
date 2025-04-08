@@ -8,6 +8,8 @@
 [![Discord](https://img.shields.io/discord/1234567890?label=Community&logo=discord&color=7289DA)](https://discord.gg/alphaos)
 [![ISO Size](https://img.shields.io/badge/ISO_Size-2.4GB-purple)](https://alphaos.org/download)
 
+|:----:|
+
 ![AlphaOS Desktop Showcase](assets/showcase.png)
 https://sites.google.com/view/alpha-os/main
 ## 🚀 Features

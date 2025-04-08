@@ -1,10 +1,10 @@
 <div align="center">
-  <a href="https://github.com/ax10mdev/AlphaOS/assets/logo-with-background-large.png" align="center">
+  <a href="https://github.com/ax10mdev/AlphaOS/tree/main/assets/logo-with-background-large.png" align="center">
     <center align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ax10mdev/AlphaOS/assets/logo-with-background-large.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/ax10mdev/AlphaOS/assets/logo-with-background-large.png">
-  <img src="https://github.com/ax10mdev/AlphaOS/assets/logo-with-background-large.png" alt="alphaos" align="center" height="400">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ax10mdev/AlphaOS/tree/main/assets/logo-with-background-large.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/ax10mdev/AlphaOS/tree/main/assets/logo-with-background-large.png">
+  <img src="https://github.com/ax10mdev/AlphaOS/tree/main/assets/logo-with-background-large.png" alt="alphaos" align="center" height="400">
 </picture>
     </center>
   </a>

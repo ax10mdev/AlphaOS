@@ -1,8 +1,19 @@
-# AlphaOS 
-
-![AlphaOS Logo](assets/logo-with-purple-border-and-purple-stroke-effect.png) 💜
-
-Your Custom Ubuntu-Based Linux Distro with a Sleek Purple Theme  
+<div align="center">
+  <a href="https://sites.google.com/view/alpha-os/main" align="center">
+    <center align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ax10mdev/AlphaOS/assets/logo-with-background-large.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/ax10mdev/AlphaOS/assets/logo-with-background-large.png">
+  <img src="https://github.com/ax10mdev/AlphaOS/assets/logo-with-background-large.png" alt="alphaos" align="center" height="400">
+</picture>
+    </center>
+  </a>
+  <br>
+  <h1 align="center"><center>AlphaOS</center></h1>
+  <h3 align="center"><center>Your Custom Ubuntu-Based Linux Distro with a Sleek Purple Theme</center></h3>
+  <br>
+  <br>
+</div>
 
 [![GPL-3.0 License](https://img.shields.io/badge/License-GPLv3-purple.svg)](LICENSE)
 [![GitHub Release](https://img.shields.io/github/v/release/AlphaOS/AlphaOS?color=%236A1B9A)](https://github.com/AlphaOS/AlphaOS/releases)

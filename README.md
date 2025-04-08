@@ -1,5 +1,4 @@
-
-![AlphaOS Desktop Showcase](assets/logo-with-background-large.png)
+<img src="https://github.com/ax10mdev/AlphaOS/tree/main/assets/logo-with-background-large.png" alt="elementary" align="center" height="200">
 
   <h1 align="center"><center>AlphaOS</center></h1>
   <h3 align="center"><center>Your Custom Ubuntu-Based Linux Distro with a Sleek Purple Theme</center></h3>

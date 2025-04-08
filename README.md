@@ -1,6 +1,6 @@
 # AlphaOS 
 
-![AlphaOS Logo](assets/logo.png) 💜
+![AlphaOS Logo](assets/logo-with-purple-border-and-purple-stroke-effect.png) 💜
 
 Your Custom Ubuntu-Based Linux Distro with a Sleek Purple Theme  
 

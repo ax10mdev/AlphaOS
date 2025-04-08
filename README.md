@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://sites.google.com/view/alpha-os/main" align="center">
+  <a href="https://github.com/ax10mdev/AlphaOS/assets/logo-with-background-large.png" align="center">
     <center align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ax10mdev/AlphaOS/assets/logo-with-background-large.png">
@@ -21,7 +21,7 @@
 [![ISO Size](https://img.shields.io/badge/ISO_Size-2.4GB-purple)](https://alphaos.org/download)
 
 ![AlphaOS Desktop Showcase](assets/showcase.png)
-
+https://sites.google.com/view/alpha-os/main
 ## 🚀 Features
 
 ### 🎨 Stunning Visual Design

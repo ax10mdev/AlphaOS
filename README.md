@@ -4,7 +4,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ax10mdev/AlphaOS/tree/main/assets/logo-with-background-large.png">
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/ax10mdev/AlphaOS/tree/main/assets/logo-with-background-large.png">
-  <img src="https://github.com/ax10mdev/AlphaOS/tree/main/assets/logo-with-background-large.png" alt="alphaos" align="center" height="400">
+  <img src="https://github.com/ax10mdev/AlphaOS/tree/main/assets/logo-with-background-large.png" alt="alphaos" align="center" height="200">
 </picture>
     </center>
   </a>
